@@ -3,7 +3,10 @@
 ## Description
 This is a project for managing your tasks. It provides a user-friendly interface to create, read, update, and delete tasks. With this project, you can easily keep track of your tasks, prioritize them, and mark them as completed. 
 
-## Technolies
+## Starting screen
+![Alt text](public/assets/icons/image.png)
+
+## Technologies
 Technologies Used:
 - Front-end: HTML, CSS, JavaScript, EJS
 - Back-end: Node.js, Express.js
